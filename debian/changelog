@@ -1,0 +1,5 @@
+python-os-vif (1.1.0-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #834456)
+
+ -- Ivan Udovichenko <iudovichenko@mirantis.com>  Mon, 15 Aug 2016 19:53:38 +0300

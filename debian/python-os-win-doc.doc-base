@@ -1,0 +1,9 @@
+Document: python-os-vif-doc
+Title: os-vif Documentation
+Author: N/A
+Abstract: Sphinx documentation for os-vif
+Section: Programming/Python
+
+Format: HTML
+Index: /usr/share/doc/python-os-vif-doc/html/index.html
+Files: /usr/share/doc/python-os-vif-doc/html/*
