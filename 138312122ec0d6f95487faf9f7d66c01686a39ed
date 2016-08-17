@@ -1,0 +1,10 @@
+Code-Review+1: Sean M. Collins <sean@coreitpro.com>
+Code-Review+2: Daniel Berrange <berrange@redhat.com>
+Code-Review+2: Moshe Levi <moshele@mellanox.com>
+Workflow+1: Moshe Levi <moshele@mellanox.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 05 Aug 2016 11:29:13 +0000
+Reviewed-on: https://review.openstack.org/287709
+Project: openstack/deb-os-vif
+Branch: refs/heads/master

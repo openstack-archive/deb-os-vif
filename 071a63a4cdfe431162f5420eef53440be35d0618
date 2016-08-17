@@ -1,0 +1,9 @@
+Code-Review+2: sean mooney <sean.k.mooney@intel.com>
+Code-Review+2: Daniel Berrange <berrange@redhat.com>
+Workflow+1: Daniel Berrange <berrange@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 01 Aug 2016 11:35:10 +0000
+Reviewed-on: https://review.openstack.org/345199
+Project: openstack/deb-os-vif
+Branch: refs/heads/master
